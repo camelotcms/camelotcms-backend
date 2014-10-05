@@ -5,7 +5,7 @@ require 'camelotcms/backend/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'camelotcms-backend'
-  spec.version       = Camelotcms::Cackend::VERSION
+  spec.version       = Camelotcms::Backend::VERSION
   spec.authors       = ['David Freerksen']
   spec.email         = ['dfreerksen@gmail.com']
   spec.summary       = %q{TODO: Write a short summary. Required.}
